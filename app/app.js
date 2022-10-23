@@ -15,10 +15,11 @@
 
 const PORT =3000;
 
-const home = require("./src/routes/home")
-
 const express = require("express");
+const bodyParser = requir("body-parser");
 const app = express();
+
+const home = require("./src/routes/home");
 
 //앱세팅
 app.set("views","./src/views");
