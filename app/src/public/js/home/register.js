@@ -31,6 +31,6 @@ function register(){
            }
         })
         .catch((err)=> {
-            console.error("로그인 줌 에러 발생");
+            console.error("회원가입 줌 에러 발생");
         });
 }
