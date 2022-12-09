@@ -1,5 +1,14 @@
 {
-    "id": ["chan", "aaa", "bbb"],
-    "psword": ["111","222","333"],
-    "name": ["찬","에이","비"]
+	"id": [
+		"chan",
+		"asdf"
+	],
+	"psword": [
+		"1234",
+		"asdf"
+	],
+	"name": [
+		"park",
+		"asdf"
+	]
 }
